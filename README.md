@@ -45,7 +45,6 @@ I believe in lifelong learning and continuously improving my technical and soft 
 
 - 💼 LinkedIn : [Jonathan DELLA SANTINA](https://www.linkedin.com/in/jonathan-della-santina/) 
 - 📧 Email: jonathan.dellasantina433@gmail.com
-- 🌐 [Personal Website](https://your-website.com)
 
 ---
 
