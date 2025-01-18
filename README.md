@@ -12,25 +12,18 @@ I’m currently pursuing my MSc in **Computer Science and Information Systems** 
 
 In my role at **Ordisys**, I manage:
 - Preventive maintenance for clients.
-- Access rights (AD and Office 365 account management).
-- User account security and permissions.
+- Access rights and user account security (Active Directory, Office 365).
 
-I’m enthusiastic about solving IT challenges and continuously expanding my expertise in modern technologies and methodologies.
+I’m dedicated to solving IT challenges and continuously expanding my expertise in modern technologies.
 
 ---
 
-## 💡 What I’m Focusing On
+## 💡 Learning Goals
 
-I’m actively working on building expertise in:
-- **DevSecOps Methodology**: Integrating security seamlessly into development and operations workflows.
-- **Data and Cloud Skills**:
-  - Exploring **Big Data** and **Data Management** for scalable and efficient systems.
-  - Strengthening knowledge in **Cloud Security**.
-- **Automation & Infrastructure**:
-  - Learning tools like **Terraform**, **Ansible**, **Docker**, and **Kubernetes**.
-  - Optimizing system deployment and management with **CI/CD pipelines** and **infrastructure as code**.
-- **Observability and Monitoring**:
-  - Implementing tools like **Zabbix** and other solutions for improved system reliability.
+I’m actively building expertise in:
+- **DevSecOps Methodology**: Integrating security into development and operations workflows.
+- **Automation & Infrastructure**: Learning tools like **Terraform**, **Ansible**, **Docker**, and **Kubernetes**.
+- **Data & Cloud Skills**: Exploring **Big Data**, **Cloud Security**, and **observability** tools for system monitoring.
 
 ---
 
@@ -40,39 +33,25 @@ I’m actively working on building expertise in:
 - **Languages**: Java, Python, Bash, PowerShell, SQL, HTML/CSS.
 
 ### Tools & Platforms
-- **Operating Systems**: Windows (7, 8, 10, 11, Server 2016/2019/2022,2025), Linux (Debian, Ubuntu, Linux Mint).
-- **Virtualization**: VMware, VirtualBox, HyperV, ESXi.
-- **Network & Security Tools**: Fortinet, Cisco, PFSense, Stormshield, Zabbix.
-- **Monitoring & IT Management**: OCS Inventory, GLPI.
-
-### Networking & System Administration
-- **Active Directory**: User management, GPO configuration, Terminal Server.
-- **Networking**: DHCP, DNS, VPN, VLAN, router/switch configuration.
-- **Web & Database**: Apache 2, FTP servers with redundancy, MariaDB, MySQL.
-
----
-
-## 🌱 Always Learning
-
-I’m committed to continuous learning and self-improvement. Currently, I’m exploring:
-- Advanced **data visualization** techniques.
-- Cloud-native security solutions.
-- **AI/ML** applications in data-driven decision-making.
+- **Operating Systems**: Windows (7–11, Server 2016/2019/2022), Linux (Debian, Ubuntu).
+- **Virtualization**: VMware, VirtualBox, HyperV.
+- **Networking & Security**: Cisco, Fortinet, PFSense, Stormshield.
+- **Monitoring & IT Management**: Zabbix, OCS Inventory, GLPI.
 
 ---
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-della-santina/)  
+- 💼 LinkedIn: [Jonathan DELLA SANTINA](https://www.linkedin.com/in/jonathan-della-santina/)  
 - 📧 Email: jonathan.dellasantina433@gmail.com  
 
 ---
 
 ## 🌟 Hobbies
 
-When I’m not working or learning, you’ll often find me:
+When I’m not working, you’ll often find me:
 - 🏋️‍♂️ Staying active at the gym.
-- 🎮 Competing in **Counter-Strike 2 (CS2)**, enjoying strategic gameplay and teamwork.
-- 📘 Exploring tech trends and broadening my knowledge through articles and videos.
+- 🎮 Competing in **Counter-Strike 2 (CS2)**.
+- 📘 Exploring tech trends and learning new skills.
 
 Feel free to connect with me or explore my repositories. 🚀
