@@ -30,7 +30,9 @@ I’m actively building expertise in:
 ## 🛠️ Skills
 
 ### Programming & Scripting
-- **Languages**: Java, Python, Bash, PowerShell, SQL, HTML/CSS.
+- **Languages**: Java, Python, Bash, PowerShell, SQL.
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDS30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Tools & Platforms
 - **Operating Systems**: Windows (7–11, Server 2016/2019/2022), Linux (Debian, Ubuntu).
