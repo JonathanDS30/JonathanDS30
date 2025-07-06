@@ -1,47 +1,35 @@
-# Hi there! 👋
+# 👋 Hi there!
 
-Welcome to my profile! My name is **Jonathan DELLA SANTINA**, and I’m a passionate **IT professional** specializing in **cybersecurity** and **data systems**. 
+I'm **Jonathan DELLA SANTINA**, an enthusiastic IT professional specialized in **cybersecurity**, **DevSecOps**, and **data systems**.
 
-I’m currently pursuing my MSc in **Computer Science and Information Systems** at **EPSI**, while working in a **work-study program** with **Ordisys** as a **preventive technician**.
-
-![Profile Banner](https://github.com/user-attachments/assets/ad170cd5-757c-49f6-9d0c-309c42559a99)
-
+🎓 Currently pursuing an MSc in Computer Science and Information Systems at **EPSI**, and working at **Ordisys** as a **preventive technician** in a work-study program.
 
 ---
 
 ## 🚀 About Me
 
-In my role at **Ordisys**, I manage:
-- Preventive maintenance for clients.
-- Access rights and user account security (Active Directory, Office 365).
-
-I’m dedicated to solving IT challenges and continuously expanding my expertise in modern technologies.
+- 🛠️ Managing preventive maintenance, user access, and security (Active Directory, Office 365).
+- 🌱 Passionate about solving IT challenges and continuously learning modern technologies.
 
 ---
 
-## 💡 Learning Goals
+## 🎯 What I’m Focusing On
 
-I’m actively building expertise in:
-- **DevSecOps Methodology**: Integrating security into development and operations workflows.
-- **Automation & Infrastructure**: Learning tools like **Terraform**, **Ansible**, **Docker**, and **Kubernetes**.
-- **Data & Cloud Skills**: Exploring **Big Data**, **Cloud Security**, and **observability** tools for system monitoring.
+- 🔐 **DevSecOps**: Automation, IaC (Terraform, Ansible), secure cloud-native workflows.
+- 🖥️ **Virtualization & Containers**: Proxmox, Docker, Kubernetes.
+- 📊 **Monitoring**: Prometheus, Grafana, Zabbix.
+- 🧠 **Data Systems**: ETL (Apache Spark), Power BI, MySQL.
 
 ---
 
-## 🛠️ Skills
+## 💻 Skills Summary
 
-### 💻 Programming & Scripting
-
-- **Languages**: Java, Python (ETL with Spark & ML), PowerShell (automation scripts), Bash, SQL.
-    
-- **Use Cases**:
-    
-    - ETL pipelines (_FineGourmet_, _OpenFoodFacts_)
-        
-    - System auditing (PowerShell)
-        
-    - Data analysis and transformation
-        
+- **Languages**: Java, Python, PowerShell, Bash, SQL  
+- **IaC & Automation**: Terraform, Packer, Ansible  
+- **Virtualization**: Proxmox, VMware, Hyper-V  
+- **Networking/Security**: Cisco, Fortinet, PFsense, Stormshield  
+- **Monitoring**: Zabbix, Prometheus, Grafana  
+- **Data**: Apache Spark, MySQL, MariaDB, Power BI, JasperReports  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDS30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -49,74 +37,31 @@ I’m actively building expertise in:
 
 ---
 
-### ⚙️ Infrastructure, Virtualization & Automation
+## 🔧 Projects
 
-#### 🖥️ Virtualization & Hypervisors
+### [`FineGourmet`](https://github.com/Foufou-exe/finegourmet)  
+ETL project using **PySpark** and **MySQL** to consolidate and analyse multi-source sales data.
 
-- **Proxmox**, **VMware**, **VirtualBox**, **Hyper-V**
-    
+### [`OpenFoodFacts ETL`](https://github.com/JonathanDS30/OpenFoodsFact-Project)  
+ETL in **Java**, transforming OpenFoodFacts data to generate dynamic meal suggestions.
 
-#### ☁️ Infrastructure as Code & Automation
-
-- **Terraform** (Proxmox provider), **Packer**, **PowerShell**
-    
-
-#### 📦 Containers & Orchestration
-
-- **Docker**, **Docker Compose**
-    
-
-#### 📊 Monitoring & Observability
-
-- **Prometheus**, **Grafana**, **Zabbix**
-    
-
-#### 🧠 Systems & Networking
-
-- **Operating Systems**: Windows (7–11, Server), Linux (Debian, Ubuntu)
-    
-- **Directory Services**: **Active Directory**, GPO, OCS, GLPI
-    
-- **Network Tools**: **Cisco**, **Fortinet**, **PFSense**, **Stormshield**
-    
-- **Services**: DHCP, DNS, VPN, VLAN
-    
+### [`IaC AWS Debian Apache`](https://github.com/JonathanDS30/iac-aws-debian-apache-automation)  
+Full **Infrastructure as Code** stack:  
+- Terraform + Ansible for EC2 provisioning & Apache setup  
+- Dynamic inventory with `aws_ec2` plugin  
+- One-command deployment script
 
 ---
 
-### 📊 Data & Reporting
+## 📫 Contact
 
-- **Databases**: MySQL, MariaDB
-    
-- **Data Visualization**: Power BI, JasperReports
-    
-- **ETL Tools**: Apache Spark, Pandas, Python logging
-    
-
----
-
-### 🔧 Notable Projects
-
-- `FineGourmet` – ETL in PySpark + MySQL (multi-source sales data)
-    
-- `OpenFoodFacts` – Java ETL + smart menu generation
-    
-- `Audit Script` – PowerShell + FTP upload (compiled as .exe)
-
----
-
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: [Jonathan DELLA SANTINA](https://www.linkedin.com/in/jonathan-della-santina/)  
-- 📧 Email: jonathan.dellasantina433@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-della-santina/)  
+- 📧 jonathan.dellasantina433@gmail.com  
 
 ---
 
 ## 🌟 Hobbies
 
-When I’m not working, you’ll often find me:
-- 🏋️‍♂️ Staying active at the gym.
-- 🎮 Competing in **Counter-Strike 2 (CS2)**.
-- 📘 Exploring tech trends and learning new skills.
-
-Feel free to connect with me or explore my repositories. 🚀
+- 🎮 Esport enthusiast – especially **CS2** & Team **Vitality**  
+- 🏋️ Passionate about fitness and strength training  
+- 📘 Tech exploration and self-learning  
