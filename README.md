@@ -1,67 +1,43 @@
-# 👋 Hi there!
+# 👋 Hi, I'm Jonathan Della Santina
 
-I'm **Jonathan DELLA SANTINA**, an enthusiastic IT professional specialized in **cybersecurity**, **DevSecOps**, and **data systems**.
+**IT Technician L2 @ Ordisys** | **MSc Computer Science Student @ EPSI Montpellier**
 
-🎓 Currently pursuing an MSc in Computer Science and Information Systems at **EPSI**, and working at **Ordisys** as a **preventive technician** in a work-study program.
-
----
-
-## 🚀 About Me
-
-- 🛠️ Managing preventive maintenance, user access, and security (Active Directory, Office 365).
-- 🌱 Passionate about solving IT challenges and continuously learning modern technologies.
+Enthusiastic IT professional focused on **Cybersecurity**, **DevSecOps**, and **Data Systems**. I bridge the gap between reliable infrastructure management and secure, automated cloud workflows.
 
 ---
 
-## 🎯 What I’m Focusing On
-
-- 🔐 **DevSecOps**: Automation, IaC (Terraform, Ansible), secure cloud-native workflows.
-- 🖥️ **Virtualization & Containers**: Proxmox, Docker, Kubernetes.
-- 📊 **Monitoring**: Prometheus, Grafana, Zabbix.
-- 🧠 **Data Systems**: ETL (Apache Spark), Power BI, MySQL.
-
----
-
-## 💻 Skills Summary
-
-- **Languages**: Java, Python, PowerShell, Bash, SQL  
-- **IaC & Automation**: Terraform, Packer, Ansible  
-- **Virtualization**: Proxmox, VMware, Hyper-V  
-- **Networking/Security**: Cisco, Fortinet, PFsense, Stormshield  
-- **Monitoring**: Zabbix, Prometheus, Grafana  
-- **Data**: Apache Spark, MySQL, MariaDB, Power BI, JasperReports  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDS30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+### 🛠️ Current Role & Education
+- **📍 Location:** Montpellier, France
+- **💼 Work-Study:** IT Technician L2 at **Ordisys Informatique**
+- **🎓 Education:** MSc in Computer Science & Information Systems at **EPSI**
+- **⚡ Focus:** Infrastructure automation, security hardening, and data engineering.
 
 ---
 
-## 🔧 Projects
+### 💻 Tech Stack
 
-### [`FineGourmet`](https://github.com/Foufou-exe/finegourmet)  
-ETL project using **PySpark** and **MySQL** to consolidate and analyse multi-source sales data.
-
-### [`OpenFoodFacts ETL`](https://github.com/JonathanDS30/OpenFoodsFact-Project)  
-ETL in **Java**, transforming OpenFoodFacts data to generate dynamic meal suggestions.
-
-### [`IaC AWS Debian Apache`](https://github.com/JonathanDS30/iac-aws-debian-apache-automation)  
-Full **Infrastructure as Code** stack:  
-- Terraform + Ansible for EC2 provisioning & Apache setup  
-- Dynamic inventory with `aws_ec2` plugin  
-- One-command deployment script
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & IaC** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Security & Net** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![ActiveDirectory](https://img.shields.io/badge/AD-Active%20Directory-blue?style=flat-square) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
+| **Monitoring** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 
 ---
 
-## 📫 Contact
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-della-santina/)  
-- 📧 jonathan.dellasantina433@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanDS30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌟 Hobbies
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-della-santina/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.dellasantina433@gmail.com)
 
-- 🎮 Esport enthusiast – especially **CS2** & Team **Vitality**  
-- 🏋️ Passionate about fitness and strength training  
-- 📘 Tech exploration and self-learning  
+---
+
+### 🌟 Beyond Tech
+🎮 **Esport** (CS2 & Team Vitality) | 🏋️ **Fitness** | 📘 **Continuous Learning**
