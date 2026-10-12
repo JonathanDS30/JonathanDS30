@@ -88,29 +88,6 @@ My day-to-day sits at the crossroads of **networks**, **systems** and **security
 
 ---
 
-## 🗺️ What I build: a multi-site reference design
-
-```mermaid
-flowchart LR
-    subgraph A["🏢 Site A — Headquarters"]
-        direction TB
-        FWA["🔥 Firewall"]
-        SRVA["🖥️ AD · DNS · Monitoring"]
-        FWA --- SRVA
-    end
-
-    subgraph B["🏬 Site B — Branch"]
-        direction TB
-        FWB["🔥 Firewall"]
-        SRVB["🖥️ AD · Backup repository"]
-        FWB --- SRVB
-    end
-
-    FWA <==>|"🔐 IPsec site-to-site"| FWB
-```
-
----
-
 ## 🚧 Currently exploring
 
 <!-- Keep only what you are really working on. -->
